@@ -1,3 +1,8 @@
+### Use this mod instead:
+https://modrinth.com/mod/vanilla-permissions
+
+---
+
 ## GameMode Permissions
 This mod helps manage players' gamemode change permissions.
 
